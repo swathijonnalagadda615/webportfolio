@@ -1,0 +1,31 @@
+body{
+  margin:0;
+  font-family:Arial,sans-serif;
+  background:#08111f;
+  color:white;
+}
+nav{
+  display:flex;
+  justify-content:space-between;
+  padding:15px 30px;
+  background:#0b1628;
+}
+nav a{
+  color:#00d4ff;
+  margin-left:15px;
+  text-decoration:none;
+}
+.hero{
+  text-align:center;
+  padding:100px 20px;
+}
+button{
+  background:#00d4ff;
+  color:#000;
+  border:none;
+  padding:12px 20px;
+  border-radius:20px;
+}
+section{
+  padding:40px 20px;
+}
